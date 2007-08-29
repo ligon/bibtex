@@ -1,0 +1,82 @@
+From root  Wed Jan 22 22:56:40 1997
+Return-Path: <MELVYL@UCCMVSA.UCOP.EDU>
+Received: from uccmvsa.ucop.edu (uccmvsa.ucop.edu [128.48.140.3])
+	by are.Berkeley.EDU (8.8.5/8.8.5) with SMTP id WAA00535
+	for <ligon@are.berkeley.edu>; Wed, 22 Jan 1997 22:56:33 -0800 (PST)
+Message-Id: <199701230656.WAA00535@are.Berkeley.EDU>
+Received: from UCCMVSA.UCOP.EDU by uccmvsa.ucop.edu (IBM MVS SMTP V3R1)
+   with BSMTP id 8925; Wed, 22 Jan 97 22:54:25 PDT
+Received: by UCCMVSA.UCOP.EDU Wed, 22 Jan 97 21:46:05 PST
+Date: Wed, 22 Jan 97 21:46:05 PST
+From: "Melvyl System" <MELVYL@UCCMVSA.UCOP.EDU>
+To: ligon@are.berkeley.edu
+Subject: (id: QKU66704) MELVYL System Update result
+Status: RO
+
+Search request: FIND AU BERGSTROM, THEODORE AND ADDED FROM 01/15/97 THRU
+                01/21/97
+Search result:  1 citation in the ABI/INFORM database
+
+Display:  D ABS
+MELVYL System Update id:  KNW64188
+
+1. Bergstrom, Theodore C.
+     Economics in a family way.
+   Journal of Economic Literature v34, n4 (Dec 1996):1903-1934.
+     Pub type:  Studies; Experimental.
+
+Abstract: An examination is made of the implications of the hypothesis that
+     human preferences were shaped by natural selection, acting through
+     differential effects of preferences on rates of reproduction.  A
+     genetically based theory of the evolution of interpersonal sympathy among
+     family members is outlined.  The theory of cultural evolution is
+     discussed.  It is argued that natural selection of culturally transmitted
+     preferences and attitudes operates according to a logic similar to that of
+     natural selection of genetically transmitted traits.  Evolutionary notions
+     are then applied to the riddle of the demographic transition and to
+     patterns of intergenerational flows of wealth.  The results of studies of
+     nonmonogamous family structures in traditional societies are related to
+     more recent work on nonmonogamous family relations.  Research that has
+     potential for inspiring important advances in the economic theory of the
+     family is discussed.  An approach to intrafamily bargaining is advocated
+     that is based on noncooperative bargaining theory.
+
+From root  Thu Feb  6 00:27:20 1997
+Return-Path: <MELVYL@UCCMVSA.UCOP.EDU>
+Received: from uccmvsa.ucop.edu (uccmvsa.ucop.edu [128.48.140.3])
+	by are.Berkeley.EDU (8.8.5/8.8.5) with SMTP id AAA13564
+	for <ligon@are.berkeley.edu>; Thu, 6 Feb 1997 00:27:15 -0800 (PST)
+Message-Id: <199702060827.AAA13564@are.Berkeley.EDU>
+Received: from UCCMVSA.UCOP.EDU by uccmvsa.ucop.edu (IBM MVS SMTP V3R1)
+   with BSMTP id 3614; Thu, 06 Feb 97 00:25:21 PDT
+Received: by UCCMVSA.UCOP.EDU Wed, 05 Feb 97 21:59:11 PST
+Date: Wed, 05 Feb 97 21:59:11 PST
+From: "Melvyl System" <MELVYL@UCCMVSA.UCOP.EDU>
+To: ligon@are.berkeley.edu
+Subject: (id: WCM26586) MELVYL System Update result
+Status: RO
+
+Search request: FIND AU UDRY, CHRISTOPHER AND ADDED FROM 01/29/97 THRU
+                02/04/97
+Search result:  1 citation in the ABI/INFORM database
+
+Display:  D ABS
+MELVYL System Update id:  YJD64194
+
+1. Honore, Bo E; Kyriazidou, Ekaterini; Udry, Christopher.
+     Estimation of Type 3 Tobit models using symmetric trimming and pairwise
+     comparisons.
+   Journal of Econometrics v76, n1-2 (Jan/Feb 1997):107-128.
+     Pub type:  Studies; Experimental.
+
+Abstract: Estimation of the semiparametric Type 3 Tobit model is considered.
+     Two-step estimators are constructed that use the ideas of symmetric
+     trimming and pairwise comparisons which have been proposed for the
+     censored regression model by Powell (1986) and Honore and Powell (1994).
+     The estimators are consistent and asymptotically normal under 2
+     identifying assumptions: conditional symmetry and independence between the
+     errors and regressors.  The ideas and techniques are also implementable in
+     other selection models that are variations of the basic Type 3 Tobit
+     model.  This is demonstrated by applying the proposed method in estimating
+     an empirical model considered by Udry (1994).
+

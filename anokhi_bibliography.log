@@ -1,0 +1,68 @@
+This is TeX, Version 3.14159 (Web2C 7.3.1) (format=latex 2000.10.27)  10 MAY 2002 11:38
+**anokhi_bibliography.tex
+(anokhi_bibliography.tex
+LaTeX2e <1998/12/01> patch level 1
+Babel <v3.6x> and hyphenation patterns for american, french, german, ngerman, n
+ohyphenation, loaded.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 1999/01/07 v1.4a Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 1999/01/07 v1.4a Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/natbib/natbib.sty
+Package: natbib 1999/05/28 7.0 (PWD)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 508.
+\c@NAT@ctr=\count87
+) (anokhi_bibliography.aux)
+\openout1 = `anokhi_bibliography.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+(anokhi_bibliography.bbl [1
+
+]
+! Misplaced alignment tab character &.
+l.115 \newblock Chicken &
+                          egg: Competing matchmaking.
+? 
+[2] [3] [4] [5] [6]) [7] (anokhi_bibliography.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+) ) 
+Here is how much of TeX's memory you used:
+ 549 strings out of 10901
+ 6252 string characters out of 72568
+ 52475 words of memory out of 263001
+ 3545 multiletter control sequences out of 10000+0
+ 4591 words of font info for 17 fonts, out of 200000 for 1000
+ 14 hyphenation exceptions out of 1000
+ 23i,4n,17p,170b,362s stack positions out of 300i,100n,500p,50000b,4000s
+
+Output written on anokhi_bibliography.dvi (7 pages, 20136 bytes).

@@ -1,0 +1,33 @@
+Warning--string name "jde" is undefined
+--line 91 of file /a/are/da/faculty/ligon/Reference/holdings.bib
+Warning--string name "aer" is undefined
+--line 181 of file /a/are/da/faculty/ligon/Reference/holdings.bib
+Warning--string name "jde" is undefined
+--line 222 of file /a/are/da/faculty/ligon/Reference/holdings.bib
+Warning--string name "jasa" is undefined
+--line 322 of file /a/are/da/faculty/ligon/Reference/holdings.bib
+Warning--string name "ajae" is undefined
+--line 457 of file /a/are/da/faculty/ligon/Reference/holdings.bib
+Warning--string name "jde" is undefined
+--line 499 of file /a/are/da/faculty/ligon/Reference/holdings.bib
+Warning--empty journal in Braverman-Stiglitz82
+Warning--empty note in Ackerman89
+Warning--empty journal in Golan-Judge-Perloff95
+Warning--empty year in Golan-Judge-Perloff95
+Warning--empty journal in Mukherjee-Ray95
+Warning--empty journal in Adelman-Berck90
+Warning--empty note in Green-Lin96
+Warning--empty note in Fafchamps96
+Warning--empty note in Jalan-Ravallion96b
+Warning--empty note in Key96
+Warning--empty note in Lisboa96
+Warning--empty journal in Burda-Weil97
+Warning--there's a number but no volume in Burda-Weil97
+Warning--empty note in Miller
+Warning--empty journal in Konandreas-Schmitz78
+Warning--can't use both author and editor fields in Rosenstein-Rodan43
+Warning--empty chapter and pages in Rosenstein-Rodan43
+Warning--empty year in Rosenstein-Rodan43
+Warning--empty journal in Coate-Ravallion93
+Warning--empty note in Shannon96
+(There were 26 warnings)

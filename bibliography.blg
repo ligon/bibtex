@@ -1,0 +1,48 @@
+I was expecting a `,' or a `}'---line 38 of file holdings.bib
+ :      
+ :      volume = {11},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 1041 of file holdings.bib
+ : @article{deJanvry-etal91
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1252 of file holdings.bib
+ : @unpublished{Goodhue-etal98
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1816 of file holdings.bib
+ : @unpublished{Maitra96
+ :                      ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4125 of file holdings.bib
+ :     
+ :     category = {general},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 4774 of file holdings.bib
+ : @article{Zilberman-etal94
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4881 of file holdings.bib
+ : @article{Lichtenberg-etal88
+ :                            ,
+I'm skipping whatever remains of this entry
+Warning--missing author in Cowasjee-Duggal95
+Warning--missing author in Carlson-etal93
+Warning--empty year in Anderson-etal
+Warning--empty year in Bardhan
+Warning--no number and no volume in Berg80
+Warning--no number and no volume in Cox-Jiminez98
+Warning--no volume for deJanvry-etal92
+Warning--no number and no volume in deJanvry-Sadoulet96
+Warning--empty year in Dreze
+Warning--empty year in Gale
+Warning--empty title in Itoh92
+Warning--empty year in Levhari-Mirman80
+Warning--no number and no volume in Levhari-Mirman80
+Warning--page numbers missing in Levhari-Mirman80
+Warning--page numbers missing in Rosenberg96
+Warning--can't use both author and editor fields in Rosenstein-Rodan43
+Warning--empty chapter and pages in Rosenstein-Rodan43
+(There were 7 error messages)

@@ -1,0 +1,168 @@
+
+}
+_^
+*** BibTool ERROR:  (line 55 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+@article{arya-glover95},
+_______________________^
+*** BibTool ERROR:  (line 92 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 103 in ./holdings.bib): 161 non-space characters ignored.
+
+@article{Kinsey-etal98,
+^
+*** BibTool WARNING:  (line 127 in ./holdings.bib): Missing ',' assumed.
+
+@article{Kinsey-etal98,
+_^
+*** BibTool ERROR:  (line 127 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 140 in ./holdings.bib): 248 non-space characters ignored.
+
+     category = {},
+_____^
+*** BibTool WARNING:  (line 157 in ./holdings.bib): Missing ',' assumed.
+
+     year = {1996},
+_____^
+*** BibTool WARNING:  (line 165 in ./holdings.bib): Missing ',' assumed.
+
+     category {},
+_______________^
+*** BibTool ERROR:  (line 225 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 229 in ./holdings.bib): 3 non-space characters ignored.
+
+      category {},
+________________^
+*** BibTool ERROR:  (line 247 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 251 in ./holdings.bib): 3 non-space characters ignored.
+
+     category {},
+_______________^
+*** BibTool ERROR:  (line 291 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 295 in ./holdings.bib): 3 non-space characters ignored.
+
+*** BibTool WARNING:  (line 488 in ./holdings.bib): 179 non-space characters ignored.
+
+@article{Newbery84,
+^
+*** BibTool WARNING:  (line 774 in ./holdings.bib): Missing ',' assumed.
+
+@article{Newbery84,
+_^
+*** BibTool ERROR:  (line 774 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 788 in ./holdings.bib): 207 non-space characters ignored.
+
+      category = {},
+______^
+*** BibTool WARNING:  (line 1287 in ./holdings.bib): Missing ',' assumed.
+
+     volume {26},
+_____________^
+*** BibTool ERROR:  (line 1323 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 1330 in ./holdings.bib): 56 non-space characters ignored.
+
+@article{Jacobson73,
+^
+*** BibTool WARNING:  (line 1363 in ./holdings.bib): Missing ',' assumed.
+
+@article{Jacobson73,
+_^
+*** BibTool ERROR:  (line 1363 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 1376 in ./holdings.bib): 276 non-space characters ignored.
+
+@article{Shaked-Shanthikumar88,
+^
+*** BibTool WARNING:  (line 1409 in ./holdings.bib): Missing ',' assumed.
+
+@article{Shaked-Shanthikumar88,
+_^
+*** BibTool ERROR:  (line 1409 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 1420 in ./holdings.bib): 212 non-space characters ignored.
+
+@rticle{Clarke-etal93,
+_^
+*** BibTool ERROR:  (line 1440 in ./holdings.bib): Unknown entry type
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 1452 in ./holdings.bib): 258 non-space characters ignored.
+
+@article{Parker-Zilberman93,
+_^
+*** BibTool ERROR:  (line 1565 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 1577 in ./holdings.bib): 208 non-space characters ignored.
+
+@article{Ogaki-Park97,
+^
+*** BibTool WARNING:  (line 1842 in ./holdings.bib): Missing ',' assumed.
+
+@article{Ogaki-Park97,
+_^
+*** BibTool ERROR:  (line 1842 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 1853 in ./holdings.bib): 217 non-space characters ignored.
+
+     category = {},
+_____^
+*** BibTool WARNING:  (line 1918 in ./holdings.bib): Missing ',' assumed.
+
+@article{Just-Zilberman85,
+^
+*** BibTool WARNING:  (line 2136 in ./holdings.bib): Missing ',' assumed.
+
+@article{Just-Zilberman85,
+_^
+*** BibTool ERROR:  (line 2136 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 2149 in ./holdings.bib): 231 non-space characters ignored.
+
+@techreport{Ghelfi89,
+^
+*** BibTool WARNING:  (line 2183 in ./holdings.bib): Missing ',' assumed.
+
+@techreport{Ghelfi89,
+_^
+*** BibTool ERROR:  (line 2183 in ./holdings.bib): Syntax Error
+
+*** BibTool WARNING: *** Skiping to next '@'
+
+*** BibTool WARNING:  (line 2194 in ./holdings.bib): 210 non-space characters ignored.
+
+*** BibTool WARNING: Macro 'growthdistance' is undefined.
+
+*** BibTool WARNING:  (line 2299 in ./holdings.bib): 1 non-space characters ignored.

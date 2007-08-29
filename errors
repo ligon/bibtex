@@ -1,0 +1,6 @@
+#!/bin/sh
+LP=lw3
+
+bibtool holdings.bib 1> /dev/null 2> errors.bib
+
+enscript -d${LP} errors.bib
