@@ -1,6 +1,4 @@
 #!/bin/sh
-LP=lw3
 
-bibtool holdings.bib 1> /dev/null 2> errors.bib
+bibtool $1 1> /dev/null 2| a2ps
 
-enscript -d${LP} errors.bib
