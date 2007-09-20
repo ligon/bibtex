@@ -1,0 +1,45 @@
+\documentclass{article}
+\begin{document}
+\title{Introduction to Access the Bibtex Subversion Repository}
+\author{Lunyu Xie}
+\maketitle
+1.Check out files from the repository
+
+command:svn checkout http://www.ligonresearch.org/bibtex/trunk
+
+
+2.Go to the directory
+
+command:cd trunk
+
+
+3.List all bibtex documents
+
+command:ls
+
+
+4.Locate the  document which you need. For example, diana.bib
+
+
+5.Edit this document using emacs
+
+command:emacs diana.bib
+
+
+6.Save the changes
+
+command:C-x C-s
+
+
+7.update your working copy
+
+command:svn update
+
+
+8.commit your changes
+
+command:svn commit -m''add some instructions''
+
+
+\end{document}
+
