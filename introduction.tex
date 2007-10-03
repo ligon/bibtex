@@ -4,6 +4,8 @@
 \author{Lunyu Xie}
 \maketitle
 
+Bibtex is a Latex facility for creating bibliography files. Subversion is a version control system. And a tree of files is placed into a central repository. Here is a brief introduction to access the bibtex subversion repository.
+
 \begin{enumerate}
 \item{Check out files from the repository:
 
@@ -14,7 +16,7 @@ command: \texttt{svn checkout http://www.ligonresearch.org/bibtex/trunk}}
 command: \texttt{cd trunk}}
 
 
-\item{List all bibtex documents
+\item{List all bibtex documents:
 
 command: \texttt{ls}}
 
@@ -30,21 +32,28 @@ command: \texttt{emacs diana.bib}}
 \item{Choose the article's type:
 
     Go to the menu-bar at the top of the shell. Click
-    \texttt{Entry-Types}, and choose one of the following:
+    \texttt{Entry-Types}, and choose one of the following (there are more options, but these four listed here are used most of the times.):
     \begin{description}
-    \item[Article]{Article published in a journal.}
+    \item[Article in Jounal]
     \item[Unpublished]{Not published; includes working papers.}
+    \item[Technical Report]
+    \item[Article in collection]
     \end{description}}
 
-\item{Put in the informations needed.
+\item{Put in the information needed.
 
-\texttt{Note}: \subitem{if there are two or more authors, use ``and'' between their names. For example, Carolyn Dimitri and Richard Tiffin. }
+\texttt{Note}: \subitem{If there are two or more authors, use ``and'' between their names. For example, Carolyn Dimitri and Richard Tiffin. }
 
 \subitem{OPT means optional, you can leave it blank if the information for it is missing.}
 
 \subitem{After putting in all the information, click \texttt{C-c, C-c}, and all the rows where you don't put in any optional infomation will dispear.  }
 
-\subitem{At the bottom of the shell, put in the last names of authors and the year. For example, the author is Carolyn Dimitri and the year is 2000. Put in Dimitri00. If there are two authors, say Carolyn Dimitri and Richard Tiffin, put in Dimitri-Tiffin00. If there are more than two authors, only put in only the last name of the first author and etal. For example, Dimitri-etal00 }
+\subitem{At the bottom of the shell, put in the last names of authors and the year. For example, the author is Carolyn Dimitri and the year is 2000. Put in Dimitri00. If there are two authors, say Carolyn Dimitri and Richard Tiffin, put in Dimitri-Tiffin00. If there are more than two authors, only put in the last name of the first author and ``etal''. For example, Dimitri-etal00. }
+
+\subitem{In a title, Bibtex will change uppercase letters to lowercase letters if appropriate. If you do not want a capitalized letter to be changed to lowercase, you have to put it between braces. For example, born in the \{USA\}.}
+
+\subitem{If the author has multiple last names, such as ``de Janvry'', when you input the author information, you need put the last names between braces to let Bibtex know that ``de'' is part of the last name other than the middle name. For example, author:\{Alian \{de Janvry\}\}, and  article \{deJanvry02,
+
 
 }
 
@@ -61,10 +70,14 @@ command: \texttt{svn update}}
 
 \item{Commit your changes
 
-command: \texttt{svn commit -m ``add some instructions''}}
+command: \texttt{svn commit -m ``description of changes''}}
+
+
 
 \end{enumerate}
 
+
+For more information about Bibtex or Subversion, please refer to online documentations. Good Luck and have fun!
 
 \end{document}
 
