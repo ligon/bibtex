@@ -1,6 +1,6 @@
 #!/bin/sh
 
-bibtool $1 1> /dev/null 2> errors.txt
+/usr/bin/bibtool $1 1> /dev/null 2> errors.txt
 
-a2ps errors.txt
+/usr/bin/a2ps errors.txt
 
