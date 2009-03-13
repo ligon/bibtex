@@ -1,6 +1,0 @@
-#!/bin/sh
-LP=arehp_2
-
-bibtool sabrina.bib 1> /dev/null 2> sabrina_errors.bib
-
-enscript -d${LP} sabrina_errors.bib
