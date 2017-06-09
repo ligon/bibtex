@@ -1,7 +1,260 @@
 
 
+@Article{machina04,
+  author =       {Mark J. Machina},
+  title =        {Almost-objective uncertainty},
+  journal =      {Economic Theory},
+  year =         2004,
+  volume =    24,
+  number =    1,
+  pages =     {1-54},
+  URL =      {http://econweb.ucsd.edu/~mmachina/papers/Machina_Almost-Objective_Uncertainty.pdf}}
 
+@Article{Liang-ma04,
+  author =       {Zai Liang and Zhongdong Ma
+},
+  title =        {China's Floating Population: New Evidence from the 2000 Census
+},
+  journal =      {Population and Development Review
+},
+  year =         2004,
+  volume =    30,
+  number =    3,
+  pages =     {467-488},
+  month =     {September},
+  URL =      {http://www.jstor.org/stable/3401411}}
 
+@Unpublished{luttmer91,
+  author =       {Erzo G.J. Luttmer},
+  title =        {The implications of asset market data for models of econoies with transaction costs},
+  note =         {manuscript},
+  month =     {October},
+  year =      1991}
+
+@Unpublished{luttmer90,
+  author =       {Erzo G.J. Luttmer},
+  title =        {Economies with liquidity constrained firms},
+  note =         {manuscript},
+  month =     {October},
+  year =      1990}
+
+@TechReport{luttmer90,
+  author =       {Erzo G.J. Luttmer},
+  title =        {Economies with firms that are liquidity constrained},
+  institution =  {The University of Chicago},
+  year =         1990,
+  month =     {June}}
+
+@TechReport{luttmer-yaron92,
+  author =       {Erzo G.J. Luttmer and Amir Yaron},
+  title =        {Asset pricing and 'the liquidity effect'},
+  institution =  {The University of Chicago},
+  year =         1992,
+  type =      {Thesis Seminar Joint with Workshop in Money and Banking},
+  month =     {December}}
+
+@TechReport{luttmer91,
+  author =       {Erzo G.J. Luttmer},
+  title =        {Notes on no-arbitrage with short sale constraints},
+  institution =  {The University of Chicago},
+  year =         1991,
+  month =     {February}}
+
+@TechReport{luo92,
+  author =       {Shih-hao Luo},
+  title =        {The analysis of information agents},
+  institution =  {University of Chicago},
+  year =         1992,
+  type =      {Applied Price Theory Workshop},
+  month =     {November}}
+
+@Article{allen-lueck,
+  author =       {Douglas W. Allen and Dean Lueck},
+  title =        {The Role of Risk in Contract Choice},
+  journal =      {Journal of Law, Economics, & Organization},
+  year =         1999,
+  volume =    15,
+  number =    3,
+  pages =     {704-736},
+  month =     {October},
+  URL =      {http://www.jstor.org/stable/3555088}}
+
+@Article{allen-lueck93,
+  author =       {Douglas W. Allen and Dean Lueck},
+  title =        {Transaction Costs and the Design of Cropshare Contracts},
+  journal =      {The RAND Journal of Economics},
+  year =         1993,
+  volume =    24,
+  number =    1,
+  pages =     {78-100},
+  month =     {Spring},
+  URL =      {http://www.jstor.org/stable/2555954}}
+
+@Article{allen-lueck95,
+  author =       {Douglas W. Allen and Dean Lueck},
+  title =        {Risk Preferences and the Economics of Contracts},
+  journal =      {The American Economic Review},
+  year =         1995,
+  volume =    85,
+  number =    2,
+  pages =     {447-451},
+  month =     {May},
+  URL =          {http://www.jstor.org/stable/2117964}}
+
+@Unpublished{lucas-pekkala03,
+  author =       {Robert E.B. Lucas  and Sari A. Pekkala},
+  title =        {Abilities, Budgets and Age:Inter-Generational Economic Mobility in Finland},
+  note =         {Manuscript},
+  month =     {March},
+  year =      2003,
+  URL =    {http://www.bu.edu/econ/files/2012/11/dp130.pdf}
+}
+
+@Article{stark-lucas88,
+  author =       {Oded Stark and Robert E. B. Lucas
+},
+  title =        {Migration, Remittances, and the Family},
+  journal =      {Economic Development and Cultural Change},
+  year =         1988,
+  volume =    36,
+  number =    3,
+  pages =     {465-481},
+  month =     {April},
+  URL =      {http://www.jstor.org/stable/1153807}
+}
+
+@Article{lucas-stark85,
+  author =       {Robert E. B. Lucas and Oded Stark},
+  title =        {Motivations to Remit: Evidence from Botswana},
+  journal =      {Journal of Political Economy},
+  year =         1985,
+  volume =    93,
+  number =    5,
+  pages =     {901-918},
+  month =     {October},
+  URL  =    {http://www.jstor.org/stable/1833062}
+}
+
+@InProceedings{lucas88,
+  author =       {Robert E. Lucas Jr.},
+  title =        {Money demand in the United States: a quantitative review},
+  booktitle = {Carnegie-Rochester Conference Series on Public Policy},
+  year =      1988,
+  volume =    29,
+  series =    {Carnegie-Rochester Conference Series on Public Policy 29},
+  pages =     {137-168},
+  address =   {North-Holland},
+  organization = {The University of Chicago},
+  publisher = {Elsevier Science Publishers B.V.},
+  URL =    {https://doi.org/10.1016/0167-2231(88)90009-7}
+}
+
+@TechReport{lucas93,
+  author =       {Robert E. Lucas, Jr.},
+  title =        {On the welfare cost of inflation},
+  institution =  {The University of Chicago},
+  year =         1993,
+  address =   {Money and Banking workshop},
+  note =      {1/12/1993},
+  URL =    {http://faculty.econ.ucdavis.edu/faculty/kdsalyer/LECTURES/Ecn235a_disabled/Extra_Articles/welfare.pdf}
+}
+
+@Article{lucas89,
+  author =       {Robert E Lucas Jr.},
+  title =        {Liquidity and interest rates},
+  journal =      {Journal of Economic Theory},
+  year =         1990,
+  volume =    50,
+  number =    2,
+  pages =     {237-264},
+  month =     {April},
+  URL =      {https://doi.org/10.1016/0022-0531(90)90001-Z}}
+
+@InBook{stokey-etal88,
+  author =    {Nancy L. Stokey and Robert E. Lucas Jr. and Edward C. Prescott},
+  title =        {Recursive Methods in Economic Dynamics},
+  chapter =      2,
+  publisher =    {Harvard University Press},
+  year =         1988,
+  URL =          {http://www.u.arizona.edu/~mwalker/econ519/Stokey%26Lucas_1-65.pdf}}
+
+@Article{lucas80,
+  author =       {Robert E. Lucas, Jr.},
+  title =        {Two Illustrations of the Quantity Theory of Money},
+  journal =      {The American Economic Review},
+  year =         1980,
+  volume =    70,
+  number =    5,
+  pages =     {1005-1014},
+  month =     {December},
+  URL   =     {http://www.jstor.org/stable/1805778}}
+
+@Unpublished{lucas88,
+  author =       {Robert E. Lucas, Jr.},
+  title =        {Notes on the Leiderman workshop},
+  note =         {manuscript},
+  month =     {February},
+  year =      1988}
+
+@Article{lucas90,
+  author =       {Robert E. Lucas Jr. },
+  title =        {Supply-Side Economics: An Analytical Review},
+  journal =      {Oxford Economic Papers},
+  year =         1990,
+  volume =    42,
+  number =    2,
+  pages =     {293-316},
+  month =     {April},
+  URL =    {http://www.jstor.org/stable/2663227}
+}
+
+@Article{lucas-stokey83,
+  author =       {Robert E. Lucas and Nancy L. Stokey},
+  title =        {Optimal fiscal and monetary policy in an economy without capital},
+  journal =      {Journal of Monetary Economics},
+  year =         1983,
+  volume =    12,
+  number =    1,
+  pages =     {95-99},
+  month =     {April},
+  URL =      {https://doi.org/10.1016/0304-3932(83)90050-8}}
+
+@Unpublished{loury92,
+  author =       {Glenn C. Loury},
+  title =        {The effect of affirmative action on the incentive to acquire skills: some negative unintended consequences},
+  note =         {manuscript},
+  month =     {April},
+  year =      1992}
+
+@Article{lopez-niklitschek91,
+  author =       {Ramón López and Mario Niklitschek},
+  title =        {Dual economic growth in poor tropical areas},
+  journal =      {Journal of Development Economics},
+  year =         1991,
+  volume =    36,
+  number =    2,
+  pages =     {189-211},
+  month =     {October},
+  URL =          {https://doi.org/10.1016/0304-3878(91)90032-Q}
+}
+
+@Article{long-plosser83,
+  author =       {John B. Long, Jr. and Charles I. Plosser},
+  title =        {Real business cycles},
+  journal =      {Journal of Political Economy},
+  year =         1983,
+  volume =    91,
+  number =    11,
+  pages =     {39-69},
+  URL =       {http://www.jstor.org/stable/1840430}
+}
+
+@Unpublished{liu04,
+  author =       {Xuemei Liu},
+  title =        {A Noth-South contract on CO2 emissions abatement},
+  note =         {manuscript},
+  month =     {May},
+  year =      2004}
 
 @Article{leamer83,
   author =       {Edward E. Leamer},

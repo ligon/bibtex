@@ -654,12 +654,13 @@
 @Article{	  allen-lueck92,
   author	= {Douglas W. Allen and Dean Lueck},
   title		= {Contract Choice in Modern Agriculture: Cropshare versus
-		  Cash Rent},
+		  Cropshare},
   journal	= {Journal of Law and Economics},
   year		= 1992,
   volume	= 35,
   number	= 2,
-  pages		= {397--426}
+  pages		= {397--426},
+  URl           = {http://www.jstor.org/stable/725546}
 }
 
 @Article{	  allen83,
@@ -974,7 +975,8 @@
   category	= {}
 }
 
-@Unpublished{	  anderson-etal,
+
+@Unpublished{	  ,
   author	= {Evan W. Anderson and Lars Peter Hansen and Ellen R.
 		  McGrattan and Thomas J. Sargent},
   title		= {On the Mechanics of Forming and Estimating Dynamic Linear
@@ -3630,8 +3632,7 @@
   year		= 2007,
   volume	= 74,
   number	= 2,
-  pages		= {417-445},
-  URL           = http://www.jstor.org/stable/4626146
+  pages		= {417-445}
 }
 
 @Article{	  blundell-etal08,
@@ -4509,16 +4510,6 @@
   year		= 1999,
   volume	= 1,
   note		= {Chapter 8}
-}
-
-@Article{	  browning-lusardi96,
-  author	= {Martin Browning and Annamaria Lusardi},
-  title		= {Household Saving: Micro Theories and Micro Facts},
-  journal	= {Journal of Economic Literature},
-  volume	= {XXXIV},
-  year		= {1996},
-  pages		= {1797-1855},
-  category	= {}
 }
 
 @Article{	  browning-meghir91,
@@ -17224,7 +17215,8 @@
   author	= {Lars Ljungqvist and Thomas J. Sargent},
   title		= {The European Unemployment Dilemma},
   note		= {manuscript},
-  year		= 1996
+  year		= 1996,
+  URL           = http://www.journals.uchicago.edu/doi/pdfplus/10.1086/250020
 }
 
 @Book{ljungqvist-sargent12,
@@ -17234,13 +17226,14 @@
   year =         2012,
   edition =   {3rd}}
 
-@Unpublished{	  lleras-muney00,
+@unpublished{	  Lleras-muney00,
   author	= {Adriana Lleras-Muney},
   title		= {The Relationship Between Education and Mortality: An
 		  Analysis for the U.S. Using a Unique Social Experiment},
   note		= {Manuscript},
-  month		= {Ocotber},
-  year		= 2000
+  month		= {October},
+  year		= 2000,
+  URL           = {updated 2004 version http://www.econ.ucla.edu/alleras/research/papers/mortalityrevision2.pdf}
 }
 
 @TechReport{	  loayza-raddatz06,
@@ -17271,7 +17264,7 @@
   year		= 2000,
   volume	= 92,
   pages		= {142-166},
-  note		= {Manuscript}
+  URL		= {https://doi.org/10.1006/jeth.1999.2625}
 }
 
 @Article{	  lockwood96,
@@ -17298,10 +17291,10 @@
   title		= {Environmental externalities in traditional agriculture and
 		  the impact of trade liberalization: The case of {G}hana},
   journal	= jde,
-  volume	= {53},
+  volume	= 53,
   pages		= {17-39},
-  year		= {1997},
-  category	= {}
+  year		= 1997,
+  URL    	= {https://doi.org/10.1016/S0304-3878(97)00015-1}
 }
 
 @Book{		  lorentzen-waadeland08,
@@ -17319,7 +17312,8 @@
   volume	= 39,
   number	= 5,
   pages		= {659-681},
-  year		= 1971
+  year		= 1971,
+  URL           = {http://www.jstor.org/stable/1909571}
 }
 
 @Article{	  lucas-prescott74,
@@ -17336,7 +17330,7 @@
   title		= {Motivations to Remit},
   institution	= {Migration and Development Program, Center for Population
 		  Studies, Harvard University},
-  address	= {Cambridg, MA},
+  address	= {Cambridge, MA},
   note		= {Manuscript},
   type		= {Discussion Paper},
   number	= {10},
@@ -17350,7 +17344,8 @@
   journal	= {Journal of Economic Theory},
   volume	= 32,
   pages		= {139-171},
-  year		= 1984
+  year		= 1984,
+  URL           = {https://doi.org/10.1016/0022-0531(84)90079-6}
 }
 
 @InCollection{	  lucas76,
@@ -17368,11 +17363,11 @@
   title		= {Hedonic Wage Equations and Psychic Wages in the Returns to
 		  Schooling},
   journal	= aer,
-  volume	= {67},
-  number	= {4},
-  year		= {1977},
-  pages		= {549-548},
-  category	= {}
+  volume	= 67,
+  number	= 4,
+  year		= 1977,
+  pages		= {549-558},
+  URL    	= {http://www.jstor.org/stable/1813388}
 }
 
 @Article{	  lucas78,
@@ -17399,8 +17394,9 @@
   title		= {On the Mechanics of Economic Development},
   journal	= {Journal of Monetary Economics},
   year		= 1988,
-  volume	= {22},
-  pages		= {3--42}
+  volume	= 22,
+  pages		= {3--42},
+  URL           = {https://doi.org/10.1016/0304-3932(88)90168-7}
 }
 
 @Article{	  lucas90,
@@ -17410,7 +17406,8 @@
   volume	= 80,
   number	= 2,
   pages		= {92-96},
-  year		= 1990
+  year		= 1990,
+  URL           = {http://www.jstor.org/stable/2006549}
 }
 
 @Unpublished{	  lucas91,
@@ -17471,7 +17468,8 @@
   author	= {Lund, S. and Fafchamps, M.},
   title		= {Risk-Sharing Networks in Rural {P}hilippines},
   year		= 1997,
-  note		= {mimeograph}
+  note		= {manuscript},
+  URL   	= {https://doi.org/10.1016/S0304-3878(03)00029-4}
 }
 
 @Unpublished{	  lund96,
@@ -17480,9 +17478,9 @@
 		  Evidence from the {P}hilippines},
   institution	= {Stanford University},
   address	= {Stanford, California},
-  year		= {1996},
+  year		= 1996,
   note		= {Manuscript},
-  category	= {}
+  URL   	= {https://doi.org/10.1016/S0304-3878(03)00029-4}
 }
 
 @Article{	  lundberg-etal97,
@@ -17491,10 +17489,11 @@
   title		= {Do Husbands and Wives Pool Their Resources?},
   journal	= {The Journal of Human Resources},
   volume	= {XXXII},
-  number	= {3},
-  year		= {1997},
+  number	= 3,
+  year		= 1997,
   pages		= {462-480},
-  category	= {intra-household allocations}
+  category	= {intra-household allocations},
+  URL           = {http://www.jstor.org/stable/pdf/146179.pdf}
 }
 
 @Unpublished{	  lundberg-pollak02,
@@ -17508,11 +17507,12 @@
   author	= {Shelly Lundberg and Robert A. Pollak},
   title		= {Separate Spheres Bargaining and the Marriage Market},
   journal	= jpe,
-  volume	= {10},
-  number	= {6},
-  year		= {1993},
+  volume	= 10,
+  number	= 6,
+  year		= 1993,
   pages		= {988-1010},
-  category	= {cooperative bargaining}
+  category	= {cooperative bargaining},
+  URL           = {http://www.jstor.org/stable/2138569}
 }
 
 @Article{	  lundberg-pollak94,
@@ -17572,22 +17572,24 @@
   title		= {The Financial System of the Medieval Papacy in the Light
 		  of Recent Literature},
   journal	= qje,
-  volume	= {23},
-  number	= {2},
-  year		= {1909},
+  volume	= 23,
+  number	= 2,
+  year		= 1909,
   pages		= {251-295},
-  category	= {Village Implementation}
+  category	= {Village Implementation},
+  URL           = {http://www.jstor.org/stable/1882800}
 }
 
 @Article{	  lunt12,
   author	= {W.E. Lunt},
   title		= {The First Levy of Papal Annates},
   journal	= {The American Historical Review},
-  volume	= {18},
-  number	= {1},
-  year		= {1912},
+  volume	= 18,
+  number	= 1,
+  year		= 1912,
   pages		= {48-64},
-  category	= {Village Implementation}
+  category	= {Village Implementation},
+  URL           = {http://www.jstor.org/stable/1832692}
 }
 
 @Article{	  lusardi96,
@@ -17595,11 +17597,11 @@
   title		= {Permanent Income, Current Income, and Consumption:
 		  Evidence from two panel data sets},
   journal	= {Journal of Business and Economic Statistics},
-  volume	= {14},
-  number	= {1},
-  year		= {1996},
+  volume	= 14,
+  number	= 1,
+  year		= 1996,
   pages		= {81-90},
-  category	= {}
+  URL	        = {http://www.jstor.org/stable/1392101}
 }
 
 @Unpublished{	  lustig02,
@@ -17670,6 +17672,7 @@
   year		= {1988},
   pages		= {555-572},
   category	= {principal-multiagent}
+  URl           = {http://www.jstor.org/stable/2297405}
 }
 
 @Article{	  mace91,
@@ -17727,6 +17730,7 @@
 		  Sergio Ribeiro de Costa Werlang},
   title		= {Credit Rationing and the Permanent Income Hypothesis},
   note		= {manuscript},
+  URL           = http://repositorio.uahurtado.cl/bitstream/handle/11242/1648/208-1024-1-PB.pdf?sequence=1&isAllowed=y,
   year		= 1988
 }
 
@@ -17758,7 +17762,8 @@
 		  Hazard},
   note		= {manuscript},
   year		= 1998,
-  category	= {Decentralization}
+  category	= {Decentralization},
+  URL           = https://pdfs.semanticscholar.org/7b1c/e730838f6ffbe145f7e88eb6ce95083c5058.pdf
 }
 
 @Unpublished{	  magnac-etal01,
@@ -17767,8 +17772,7 @@
 		  Conditional Logit},
   note		= {Manuscript},
   month		= {September},
-  year		= 2001,
-  URL           = http://www.jstor.org/stable/3598770
+  year		= 2001
 }
 
 @Unpublished{	  magnac01,
@@ -28185,6 +28189,7 @@ journal = {The Quarterly Journal of Economics}
   journal = 	 {The Quarterly Journal of Economics},
   year = 	 2007,
   pages = 	 {1103-1144},
+  URL =          {http://www.jstor.org/stable/25098869},
 }
 
 
@@ -28315,12 +28320,13 @@ journal = {The Quarterly Journal of Economics}
 
 @Article{browning-lusardi96,
   author = 	 {Martin Browning and Annamaria Lusardi},
-  title = 	 {Household Savings: Micro Theories and Micro Facts},
+  title = 	 {Household Saving: Micro Theories and Micro Facts},
   journal = 	 {Journal of Economic Literature},
   year = 	 1996,
   volume = 	 34,
   number = 	 4,
   pages = 	 {1797-1855},
+  URL  =         {http://www.jstor.org/stable/2729595},
 }
 
 @Article{barten77,
