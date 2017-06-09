@@ -1,10 +1,12 @@
 \documentclass{article}
-\usepackage{natbib}
+\usepackage[utf8]{inputenc}
+\usepackage[authordate-trad,backend=biber,natbib]{biblatex-chicago}
+\addbibresource{new.bib}
+%\usepackage{natbib}
 
 \begin{document}
 
-\bibliographystyle{plain}
 \nocite{*}
 
-\bibliography{dilarasu}
+\printbibliography
 \end{document}
