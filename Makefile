@@ -23,7 +23,7 @@ selected_working_papers.html: selected_working_papers.bib
 ligon_published.html: ligon_published.bib
 	bibtex2html -d -r -nokeys -o ligon_published ligon_published.bib
 
-install: papers.html selected_working_papers.html ligon.bib
+install: papers.html ligon_published.html selected_working_papers.html ligon.bib
 	scp papers.html selected_working_papers.html ligon_published.html \
             papers_bib.html selected_working_papers_bib.html ligon_published_bib.html \
-            nature.berkeley.edu:public_html/
+            ligon@nature.berkeley.edu:public_html/
