@@ -1,9 +1,9 @@
 ALL=$(shell ls *.bib)
 
-LIGON=ligon_published.bib selected_working_papers.bib
+LIGON=ligon_published.bib selected_working_papers.bib other_working_papers.bib
 
 DONOTEDIT="% This file automatically generated $(shell date) (see Makefile); do not edit! \
-           Instead edit ligon_published.bib and selected_working_papers.bib."
+           Instead edit ligon_published.bib and *_working_papers.bib."
 
 all: ligon.bib papers.html selected_working_papers.html ligon_published.html 
 
