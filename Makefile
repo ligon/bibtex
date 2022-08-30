@@ -11,8 +11,9 @@ ligon.bib: $(LIGON)
 	echo $(DONOTEDIT) > ligon.bib
 	bibtool $(LIGON) >> ligon.bib
 
-main.bib: $(ALL)
-	echo $(ALL)
+all.bib:
+	echo $(DONOTEDIT) > all.bib
+	bibtool $(ALL)  >> all.bib
 
 papers.html: ligon.bib
 	bibtex2html -d -r -nokeys -o papers ligon.bib
