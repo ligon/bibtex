@@ -1,3 +1,11 @@
 sort = {on}
 check.double = on
 check.double.delete=on
+
+% BibTool only knows the standard BibTeX entry types, so it rejects the
+% biblatex types used in published_code_and_data.bib ("Unknown entry type",
+% then "Skipping to next '@'") and silently drops every such entry from the
+% generated ligon.bib. Declare them. Biber needs no such help -- this is a
+% BibTool limitation, not a problem with the entries.
+new.entry.type {software}
+new.entry.type {dataset}
